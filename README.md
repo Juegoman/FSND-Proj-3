@@ -20,6 +20,7 @@ Be sure to alter secret.py to protect the integrity of the cookie hashing functi
 After that the project should be able to run locally.
 
 External dependencies:
--py-bcrypt (https://github.com/erlichmen/py-bcrypt)
+
+- py-bcrypt (https://github.com/erlichmen/py-bcrypt)
 
 drop bcrypt.py and blowfish.py from py-bcrypt into the root directory of the project and it should work.
