@@ -1,8 +1,6 @@
 Udacity Full Stack Nanodegree Project 3: Multi User Blog
 --------------------------------------------------------
 
-A LIVE VERSION OF THIS PROJECT IS AVAILABLE AT: https://blog-071616.appspot.com/
-
 A website where you can create an account an create blog posts, view other user's blog posts, like them and comment on them.
 Functionality for editing blog posts and comments is also present.
 
